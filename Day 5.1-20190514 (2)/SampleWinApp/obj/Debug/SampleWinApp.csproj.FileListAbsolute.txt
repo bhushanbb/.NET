@@ -1,0 +1,13 @@
+C:\Phaniraj\.NET Apps\DotnetFeb2019\SampleWinApp\bin\Debug\SampleWinApp.exe.config
+C:\Phaniraj\.NET Apps\DotnetFeb2019\SampleWinApp\bin\Debug\SampleWinApp.exe
+C:\Phaniraj\.NET Apps\DotnetFeb2019\SampleWinApp\bin\Debug\SampleWinApp.pdb
+C:\Phaniraj\.NET Apps\DotnetFeb2019\SampleWinApp\obj\Debug\SampleWinApp.csprojAssemblyReference.cache
+C:\Phaniraj\.NET Apps\DotnetFeb2019\SampleWinApp\obj\Debug\SampleWinApp.Properties.Resources.resources
+C:\Phaniraj\.NET Apps\DotnetFeb2019\SampleWinApp\obj\Debug\SampleWinApp.csproj.GenerateResource.cache
+C:\Phaniraj\.NET Apps\DotnetFeb2019\SampleWinApp\obj\Debug\SampleWinApp.csproj.CoreCompileInputs.cache
+C:\Phaniraj\.NET Apps\DotnetFeb2019\SampleWinApp\obj\Debug\SampleWinApp.exe
+C:\Phaniraj\.NET Apps\DotnetFeb2019\SampleWinApp\obj\Debug\SampleWinApp.pdb
+C:\Phaniraj\.NET Apps\DotnetFeb2019\SampleWinApp\obj\Debug\SampleWinApp.frmCalcForm.resources
+C:\Phaniraj\.NET Apps\DotnetFeb2019\SampleWinApp\obj\Debug\SampleWinApp.DatabaseProgram.resources
+C:\Phaniraj\.NET Apps\DotnetFeb2019\SampleWinApp\obj\Debug\SampleWinApp.MainWindow.resources
+C:\Phaniraj\.NET Apps\DotnetFeb2019\SampleWinApp\obj\Debug\SampleWinApp.AddStudent.resources
