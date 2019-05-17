@@ -1,0 +1,24 @@
+﻿@model SampleMvcApp.Models.EmpTable
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Edit</title>
+</head>
+<body>
+    <h1>Editing Details of Mr.@Model.EmpName</h1>
+    <div>
+        @using (Html.BeginForm())
+        {
+            @Html.EditorForModel()
+            <button>Save changes</button>
+        }
+    </div>
+</body>
+</html>

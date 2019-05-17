@@ -1,0 +1,31 @@
+﻿@model SampleMvcApp.Models.MathOperation
+@{
+    Layout = null;
+    var listItems = new List<SelectListItem>
+    {
+        new SelectListItem{ Value = "+", Text = "Add"},
+        new SelectListItem{ Value = "-", Text = "Substract"},
+        new SelectListItem{ Value = "X",  Text = "Multiply"},
+        new SelectListItem{ Value = "/",  Text = "Divide"}
+    };
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <h1>Math Calc Program</h1>
+    @using (Html.BeginForm())
+    {
+        <p>Enter the First Value: @Html.EditorFor((m) => m.FirstValue)</p>
+        <p>Enter the Second Value: @Html.EditorFor((m) => m.SecondValue)</p>
+        <p>Select the Operation: @Html.DropDownListFor((m)=>m.Operand, listItems) </p>
+        <p><button>Get Result</button></p>
+    }
+    <p>The Final Result: @Model.ResultValue</p>
+</body>
+</html>
